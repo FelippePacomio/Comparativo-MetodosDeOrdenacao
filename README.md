@@ -5,6 +5,7 @@ Este programa tem como objetivo realizar um comparativo entre o métodos:
 * Ordenação Bolha (Bubble Sort)
 * Ordenação por seleção (Selection Sort)
 * Ordenação por inserção (Insertion Sort)
+
 Retornar o tempo de processamento, total de passos e o total de trocas necessárias para o ordenamento dos dados.
 
 ## Requisitos
