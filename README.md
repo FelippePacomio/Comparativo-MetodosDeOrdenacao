@@ -34,7 +34,7 @@ Informa os dados do vetor e seleciona o método de ordenação:
 
 ![MENU3](https://user-images.githubusercontent.com/105086121/216851878-f26b338e-571a-4815-8978-ac26be05605e.png)
 
-Por fim, é informado o tempo de processamento para a ordenação dos valores contidos nos vetores, o total de passos e o total de trocas necessários para sua ordenação, com o propósito de analisar qual o mais eficiente dentre os métodos comparativos para cada caso.
+Por fim, é informado o tempo de processamento para a ordenação dos valores contidos nos vetores, o total de passos e o total de trocas necessários para sua ordenação, com o propósito de analisar qual o mais eficiente dentre os métodos de ordenação, para cada caso.
 
 ![MENU4](https://user-images.githubusercontent.com/105086121/216852012-4113b58f-b8de-4d7d-b8ba-fa4df5c6814d.png)
 
